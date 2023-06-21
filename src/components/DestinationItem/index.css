@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.list-container {
+  margin: 20px;
+  list-style-type: none;
+}
+.image {
+  height: 200px;
+  width: 250px;
+}
+.description {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
